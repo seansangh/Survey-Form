@@ -1,0 +1,35 @@
+#title2{
+  text-align: center;
+  padding-top: 10px; 
+  padding-bottom: 5px;
+}
+
+.head{
+  background-color: black; 
+  color: white;
+}
+
+#img-div{
+  text-align: center;
+  margin-bottom: 40px; 
+  background-color: #f2f2f2; 
+  margin-top: -5px; 
+  padding-top: 2px; 
+  padding-bottom: 5px; 
+  font-size: 15px;
+}
+
+#img-div img{
+  position: relative;
+  margin: auto;
+  max-width: 50%; 
+  display: block;
+  height: auto;
+}
+
+#form{
+  background-color: white; 
+  padding-top: 25px; 
+  padding-left: 25%; 
+  padding-bottom: 25px;
+}
